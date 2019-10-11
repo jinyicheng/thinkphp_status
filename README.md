@@ -1,0 +1,2 @@
+# thinkphp_status
+像thinkphp的Config类一样，方便读取和配置各应用的状态码
