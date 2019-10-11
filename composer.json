@@ -1,0 +1,29 @@
+{
+  "name": "jinyicheng/thinkphp_status",
+  "description": "像应用config一样应用status，让状态码错误码管理更方便，ThinkPHP5.0.*版",
+  "keywords": [
+    "thinkphp_status",
+    "error code",
+    "thinkphp5"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "guojun",
+      "email": "492282937@qq.com"
+    },
+    {
+      "name": "jinyicheng",
+      "email": "234067496@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0",
+    "topthink/framework": "5.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "jinyicheng\\thinkphp_status\\": "src/"
+    }
+  }
+}
