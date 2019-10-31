@@ -1,6 +1,7 @@
 <?php
 
 namespace jinyicheng\thinkphp_status;
+use think\Request;
 
 class Status
 {
